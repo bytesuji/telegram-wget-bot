@@ -1,0 +1,6 @@
+bot-api-key.txt
+*__pycache__*
+*.swm
+*.swn
+*.swo
+*.swp
